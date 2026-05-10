@@ -1,0 +1,13 @@
+streamlit
+pandas
+numpy
+scikit-learn
+scipy
+groq
+matplotlib
+seaborn
+plotly
+python-dotenv
+requests
+joblib
+certifi
